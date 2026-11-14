@@ -185,6 +185,7 @@ FIFA-World-Cup-2026-Player-Performance-Dashboard/
 - Data Visualization
 - Analytical Thinking
 - Interactive Dashboard Development
+  
 
 ##  Author
 
